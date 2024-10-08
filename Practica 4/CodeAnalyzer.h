@@ -1,3 +1,14 @@
+// Universidad de La Laguna
+// Escuela Superior de Ingeniería y Tecnología
+// Grado en Ingeniería Informática
+// Asignatura: Computabilidad y Algoritmia
+// Curso: 2º
+// Práctica 2: Cadenas y lenguajes
+// Autor: Diego Alejandro Cordido Figueroa
+// Correo: alu0101229300@ull.edu.es
+// Fecha: 
+// Archivo: CodeAnalyzer.h
+
 #ifndef CODEANALYZER_H
 #define CODEANALYZER_H
 
