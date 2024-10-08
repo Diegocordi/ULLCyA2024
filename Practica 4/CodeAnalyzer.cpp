@@ -7,7 +7,7 @@
 // Autor: Diego Alejandro Cordido Figueroa
 // Correo: alu0101229300@ull.edu.es
 // Fecha: 
-// Archivo: CodeAnalyzer.h
+// Archivo: CodeAnalyzer.cpp
 
 #include "CodeAnalyzer.h"
 
